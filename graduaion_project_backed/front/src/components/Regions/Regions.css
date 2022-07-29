@@ -1,0 +1,29 @@
+.NavRegion {
+
+    background-color: rgb(0, 100, 0);
+
+    border: 1px solid rgba(0, 100, 0, 0.836);
+            
+    height: 2.5em;
+
+    line-height: 1.5;
+
+    font-size: 1.4em;
+
+    font-weight: 500;
+
+    border-radius: .4em .4em 0 0;
+
+    margin: 6em 0em 0em 28em;
+
+}
+
+.region {
+    position: absolute;
+height:54em;
+    top: 3.65em;
+z-index:-99;
+    opacity: 40%;
+    width:100%
+
+}

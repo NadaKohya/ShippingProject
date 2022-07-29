@@ -1,0 +1,94 @@
+header{
+    background:#6978c7;
+    border-bottom: 1px solid goldenrod;
+  }
+  ul{
+    padding: 0 60px;
+    list-style-type: none;
+  }
+    li{
+      padding: 0px 20px;
+      line-height: 3;
+    }
+    li .NavLink{
+      font-size: 20px;
+      color: goldenrod;
+  
+  
+    }
+    .navbar-expand-md .navbar-nav .nav-link{
+      padding: 5px 15px 5px 15px;
+    }
+    li .NavLink:hover{
+      color: goldenrod;
+      background: #9c9999;
+    }
+    .navbar{
+      padding: 0;
+    }
+    #top li{
+      padding: 0;
+      line-height: 1.8;
+  
+    }
+    #top li .NavLink{
+      font-size: 16px;
+      padding: 0;
+    }
+    #top li .NavLink:hover{
+      background: none;
+      text-decoration: none;
+    }
+    .col-md-2 .fab{
+      font-size: 20px;
+      padding-right: 10px;
+      padding-top: 5px;
+      padding-left: 10px;
+      
+    }
+    .navbar-brand img{
+      height: 2.8em;
+   width:9em;
+  
+    }
+    .navbar-toggler{
+      color: goldenrod;
+    }
+    .fas:hover,.fab:hover{
+      color: goldenrod;
+  
+    }
+    .ownbg{
+      background:white;
+  
+    } 
+    @media(max-width: 992px){
+    .col-md-2 .fab{
+      font-size: 18px;
+      padding-right: 0;
+  
+      
+    }
+    }
+    @media(max-width: 768px){
+      #top{
+        display: none;
+      }
+       .navbar-brand img{
+      height: 50px;
+  
+    }
+      .navbar-dark .navbar-toggler{
+        outline: none;
+        border-color: rgba(255, 255, 255, 0);
+      }
+      ul,li{
+        padding: 0;
+        text-align: center;
+  
+      }
+      .navbar-nav{
+        padding-bottom: 40px;
+      }
+   
+    }

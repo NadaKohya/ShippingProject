@@ -1,0 +1,65 @@
+.cards{
+
+    width: 28%;
+    
+    height: 6em;
+    
+    margin: 2em;
+    
+    justify-content:space-between ;
+    
+    border-radius: .7em;
+    
+    }
+    
+    .icon{
+    
+    font-size: 1em;
+    
+    line-height: .6;
+    
+    color: rgb(204, 159, 45);
+    
+    background-color: rgba(230, 194, 103, 0.397);
+    
+    border: 1px solid rgba(209, 160, 37, 0.806);
+    
+    padding: .3em;
+    
+    border-radius: 50%;
+    
+    height: 1.8em;
+    
+    }
+    
+    p{
+    
+    font-size: .8em;
+    
+    }
+    
+    h6{
+    
+    font-size: 1.3em;
+    
+    }
+    .board{
+
+        flex-wrap: wrap;
+        
+        padding:  1em;
+        
+        background-color: #eeeeee71;
+        
+        border: 2px solid goldenrod;
+        
+        width: 90%;
+        
+        height: 100%;
+            
+        margin: auto;
+        margin-top: 3em;
+        
+        border-radius: .5em;
+        
+        }

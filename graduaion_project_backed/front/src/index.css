@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* font awesome */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css");
+
+/* table template */
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("../src/styles/tableTemplate/style.css");
+
+
+@import url("../src/styles/formTemplate/style.css");
+/* home style */
+@import url("https://kit.fontawesome.com/b99e675b6e.js");
+/*@import url("../src/styles/tableTemplate/sb-admin-2.min.css");
+@import url("https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"); */
+
+
+
+
+
+
